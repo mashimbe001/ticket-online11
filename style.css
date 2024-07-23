@@ -1,0 +1,49 @@
+body{
+    background-image: url(/images/bus1.jpg);
+}
+.head{
+    text-align: center;
+    
+    background-size: cover;
+    background-position: center;
+}
+.container1{
+    margin-top: 100px;
+    background-color: aqua;
+    border-radius: 4px;
+    padding: 100px;
+    width: 700px;
+    margin-left: 300px;
+
+}
+.head1{
+    margin-top: 70px;
+}
+.container{
+    background-color: rgb(164, 179, 179);
+    margin-top: 15px;
+    margin-left: 800px;
+    width: 400px;
+    border-radius: 10px;
+    
+   
+}
+.navbar-nav .navbar-link img{
+    border-radius: 30px;
+}
+.main img {
+    width: 100%;
+    height: 600px;
+    display: block;
+}
+.navbar-nav .nav-link {
+    padding: 10px 20px;
+    color: rgb(27, 207, 162);
+}
+.navbar-nav .nav-link:hover {
+    color: rgb(228, 18, 105);
+    border-radius: 15;
+}
+
+
+
